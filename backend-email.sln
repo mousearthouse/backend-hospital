@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "backend-email", "backend-email.csproj", "{260C388C-B9D6-47D5-88E6-08D5CE47D6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260C388C-B9D6-47D5-88E6-08D5CE47D6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260C388C-B9D6-47D5-88E6-08D5CE47D6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260C388C-B9D6-47D5-88E6-08D5CE47D6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260C388C-B9D6-47D5-88E6-08D5CE47D6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD4AA94-B262-4C30-8565-5FACE1D471B7}
+	EndGlobalSection
+EndGlobal
